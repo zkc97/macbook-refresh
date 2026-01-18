@@ -6,6 +6,7 @@ This project was about saving a 2019 Intel MacBook Pro from its own heat issues.
 - **Deep Clean:** Opened the bottom case and cleared dust from the dual fans and heat sinks.
 - **Repaste:** Cleaned off the crusty factory thermal paste and replaced it with fresh high-performance compound.
 - **Stability Testing:** Ran load tests to make sure the temps stayed within a reasonable range and didn't thermal throttle.
+- **OS Downgrade:** Successfully moved the system to a legacy version of macOS to reduce background resource overhead.
 
 ## The "T2 Chip" Pivot
 My original plan was to wipe macOS and install a lightweight Linux distro. I ran into a wall with the **Apple T2 Security Chip**. 
